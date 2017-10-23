@@ -49,7 +49,7 @@ var Component = require('spa-component'),
  * @param {boolean}  [config.cycleY=true] allow or not to jump to the opposite side of column when there is nowhere to go next
  * @param {Object}   [config.provider] data provider
  * @param {number}   [config.sizeX] grid columns count
- * @param {number}   [config.sizeX] grid rows count
+ * @param {number}   [config.sizeY] grid rows count
  *
  * @fires module:stb/ui/grid~Grid#click:item
  *
