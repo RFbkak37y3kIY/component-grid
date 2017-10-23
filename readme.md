@@ -43,8 +43,6 @@ var grid = new Grid({
 });
 ```
 
-For navigation map implementation and tests see {@link https://gist.github.com/DarkPark/8c0c2926bfa234043ed1}.
-
 Each data cell can be either a primitive value or an object with these fields:
 
 Name    | Description
