@@ -63,8 +63,8 @@ Name | Type | Default value | Description
 ----- | ----- | ------------- | -------------
 data=[] | Array[] | [] | component data to visualize
 render | Function | default render | method to build each grid cell content
-cycleX=true | Boolean | true | allow or not to jump to the opposite side of line when there is nowhere to go next
-cycleY=true | Boolean | true | allow or not to jump to the opposite side of column when there is nowhere to go next
+cycleX | Boolean | true | allow or not to jump to the opposite side of line when there is nowhere to go next
+cycleY | Boolean | true | allow or not to jump to the opposite side of column when there is nowhere to go next
 provider | Object | null | data provider
 sizeX | Number | null | grid columns count
 sizeY | Number | null | grid rows count
